@@ -106,5 +106,5 @@ function markCompleted(id) {
 
 // pendAppts.addEventListener("click", getPendingAppointments)
 getPendingAppointments()
-// getUpcomingAppointments()
-// getPastAppointments()
+getUpcomingAppointments()
+getPastAppointments()
